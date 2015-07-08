@@ -1,4 +1,6 @@
-# Android UiAutomator Example Test
+# Android UiAutomator Example Test - deprecated
+
+**This code is deprecated because of the new API - see new repo: [Android testing](https://github.com/Janamou/android-testing).**
 
 Test using Android UiAutomator library.
 
